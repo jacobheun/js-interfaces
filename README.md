@@ -18,6 +18,17 @@ JS Libp2p Interfaces
 - [Stream Muxer](./stream-muxer)
 - [Transport](./transport)
 
+### Origin Repositories
+
+For posterity, here is a link to the original repositories for each of the interfaces (if they had one).
+- [Connection](https://github.com/libp2p/interface-connection)
+- [Content Routing](https://github.com/libp2p/interface-content-routing)
+- [Peer Discovery](https://github.com/libp2p/interface-peer-discovery)
+- [Peer Routing](https://github.com/libp2p/interface-peer-routing)
+- [Record Store](https://github.com/libp2p/interface-record-store)
+- [Stream Muxer](https://github.com/libp2p/interface-stream-muxer)
+- [Transport](https://github.com/libp2p/interface-transport)
+
 ## Contribute
 
 Feel free to join in. All welcome. Open an [issue](https://github.com/libp2p/js-interfaces/issues)!
