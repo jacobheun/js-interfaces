@@ -14,7 +14,6 @@ JS Libp2p Interfaces
 - [Content Routing](./content-routing)
 - [Peer Discovery](./peer-discovery)
 - [Peer Routing](./peer-routing)
-- [Record Store](./record-store)
 - [Stream Muxer](./stream-muxer)
 - [Transport](./transport)
 
@@ -25,7 +24,6 @@ For posterity, here is a link to the original repositories for each of the inter
 - [Content Routing](https://github.com/libp2p/interface-content-routing)
 - [Peer Discovery](https://github.com/libp2p/interface-peer-discovery)
 - [Peer Routing](https://github.com/libp2p/interface-peer-routing)
-- [Record Store](https://github.com/libp2p/interface-record-store)
 - [Stream Muxer](https://github.com/libp2p/interface-stream-muxer)
 - [Transport](https://github.com/libp2p/interface-transport)
 
